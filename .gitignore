@@ -31,3 +31,10 @@
 # Debug files
 *.dSYM/
 *.su
+
+.kprobe_mod.ko.cmd
+.kprobe_mod.mod.o.cmd
+.kprobe_mod.o.cmd
+Module.symvers
+modules.order
+
